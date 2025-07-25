@@ -190,7 +190,7 @@
               </div>
             </div>
             <button class="w-full bg-indigo-600 text-white py-2 rounded-lg shadow hover:bg-indigo-700 transition-colors cursor-pointer !rounded-button whitespace-nowrap">
-              <i class="fas fa-play mr-2"></i> Play Chord
+              <i class="fas fa-play mr-2"></i> Play Chord (Coming soon!)
             </button>
           </div>
         </div>
