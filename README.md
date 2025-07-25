@@ -47,6 +47,9 @@ Easily shift songs to different keys to match your vocal range or style.
 ---
 
 ## 💡 Getting Started
+Visit https://guitar-circle-of-fifths.vercel.app/
+
+or
 
 1. Clone or download the project  
 2. Open it locally  
