@@ -106,7 +106,8 @@
 
 <script lang="ts" setup>
 import { ref } from 'vue';
-import { circleChords, ChordInfo } from '../../chordsData.ts';
+import { circleChords } from '../../chordsData.ts';
+import type { ChordInfo } from '../../chordsData.ts';
 
 // Default selected chord
 const selectedChord = ref<ChordInfo>(circleChords[0].major);
