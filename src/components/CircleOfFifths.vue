@@ -56,8 +56,8 @@
             <!-- Inner Ring (Sharps/Flats) -->
             <div class="absolute left-1/2 top-1/2 w-[165px] h-[165px] rounded-full bg-gray-900 border-2 border-amber-600/30 flex items-center justify-center transform -translate-x-1/2 -translate-y-1/2">
               <div class="text-center">
-                <p class="text-xl font-playfair font-semibold text-amber-500 mb-3">Circle of Fifths</p>
-                <p class="text-xs font-montserrat text-gray-400">Click any chord to see details</p>
+                <!-- <p class="text-xl font-montserrat font-semibold text-white mb-3">Circle of Fifths</p> -->
+                <p class="text-xs font-montserrat text-gray-100">Click any chord to see details</p>
               </div>
             </div>
           </div>
